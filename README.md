@@ -2,7 +2,13 @@
 
 Glint is a macOS menu-bar app for arranging windows. Drag a window into a snap zone, or click a tile in the menu-bar picker. Set your own gaps and layouts, and choose whether Glint starts at login.
 
-[Install from source](#install-from-source) · [Watch the walkthrough](#watch-the-walkthrough) · [Create a custom layout](#create-a-custom-layout)
+[Screenshots](#screenshots) · [Watch the walkthrough](#watch-the-walkthrough) · [Install from source](#install-from-source)
+
+## Screenshots
+
+![Glint Settings, menu-bar layout picker, and custom layout editor side by side](docs/media/glint-screenshots.png)
+
+[Full-size Settings screenshot](docs/media/settings.png) · [Menu-bar picker](docs/media/menu-bar-picker.png) · [Custom layout editor](docs/media/layout-editor.png)
 
 ## Watch the walkthrough
 
